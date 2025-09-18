@@ -22,11 +22,11 @@ const AboutSection = () => {
     {
       icon: Heart,
       title: {
-        pt: "Sustentabilidade",
-        en: "Sustainability"
+        pt: "Sustentabilidade e Segurança",
+        en: "Sustainability and Security"
       },
       description: {
-        pt: "Promovemos um futuro mais limpo através de energia renovável e práticas sustentáveis.",
+        pt: "Ao adotarmos práticas sustentáveis, como o uso consciente de recursos naturais, gestão adequada de resíduos e redução de emissões, criamos um ambiente mais saudável e seguro para todos. Empresas que investem em sustentabilidade não apenas protegem o planeta, mas também reduzem riscos ocupacionais, promovendo processos de trabalho mais seguros e eficientes. A interseção entre sustentabilidade e segurança do trabalho demonstra que cuidar do meio ambiente e das pessoas é uma estratégia integrada para um futuro mais responsável e protegido.",
         en: "We promote a cleaner future through renewable energy and sustainable practices."
       }
     },
